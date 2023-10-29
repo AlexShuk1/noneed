@@ -44,4 +44,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <roles>Role.noneed_ОсновнаяРоль</roles>
+  <commonModules>CommonModule.noneed_ОбщийМодуль</commonModules>
 </mdclass:Configuration>
